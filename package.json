@@ -1,0 +1,23 @@
+{
+  "name": "demo-bot",
+  "version": "1.0.0",
+  "description": "telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HungNguyenUET/demo-bot.git"
+  },
+  "author": "hungnv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HungNguyenUET/demo-bot/issues"
+  },
+  "homepage": "https://github.com/HungNguyenUET/demo-bot#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "telebot": "^1.2.6"
+  }
+}
